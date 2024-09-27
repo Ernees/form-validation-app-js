@@ -15,5 +15,4 @@ This is a simple web application that validates form inputs and stores the submi
   - HTML, CSS, JavaScript
   - Form validation using regular expressions (regex)
 - **Backend**:
-  - **Firebase**:
-    - Firebase Realtime Database or Firestore for data storage
+  - Firebase Realtime Database or Firestore for data storage
